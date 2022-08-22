@@ -31,5 +31,5 @@
   4- Actualizar un departamento indicando su codigo y sus campos en el body
   - PUT /api/departamentos/{codigo}
   
-  5- Borrar un departamento por su ID 
+  5- Borrar un departamento por su codigo 
   - DELETE /api/departamentos/{codigo}
